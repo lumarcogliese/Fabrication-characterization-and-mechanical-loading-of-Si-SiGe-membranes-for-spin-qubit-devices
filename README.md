@@ -5,4 +5,4 @@ Raw data (ellipsometry, AFM, profilometry, microscopy) and simulation results (f
 
 Fits to ellipsometric data can be reproduced with ellipsometry_tmm_model.ipynb which relies on the complex refractive indices in the "Material_parameters" directory. 
 
-The repository can be ran with BinderHub using the following link: https://mybinder.org/v2/gh/lumarcogliese/Data-Availability---Si-SiGe-Membranes/9799af09dfd9990a9f2cbe9a51913afda8128ecd?urlpath=lab%2Ftree%2FFig1.ipynb
+The repository can be ran with BinderHub using the following link: [https://mybinder.org/v2/gh/lumarcogliese/Data-Availability---Si-SiGe-Membranes/9799af09dfd9990a9f2cbe9a51913afda8128ecd?urlpath=lab%2Ftree%2FFig1.ipynb](https://mybinder.org/v2/gh/lumarcogliese/Fabrication-characterization-and-mechanical-loading-of-Si-SiGe-membranes-for-spin-qubit-devices/f0d3a75f47a912791962f1456b4c280afa9f34c9?urlpath=lab%2Ftree%2FFig1.ipynb)
